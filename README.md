@@ -11,7 +11,6 @@
 <code>I'm a Computer Science Engineer. 😎</code>
 <code>I love programming. ❤</code>
 <code>I like learn new things. 🌱</code>
-<code>I’m looking to collaborate with other content creators.👯 </code>
 <code>2022 Goals: Learn more about web3 🥅 </code>
 <code>IRON MAN ❤ </code>
 
