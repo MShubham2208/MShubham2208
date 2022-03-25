@@ -8,11 +8,11 @@
 
 <div align="center" width="50">
 
-<code>I'm a Computer Science Engineer. 😎</code>
-<code>I love programming. ❤</code>
-<code>I like learn new things. 🌱</code>
+<code>I'm a Computer Science Engineer😎</code>
+<code>I love programming❤</code>
+<code>I like learn new things🌱</code>
 <code>2022 Goals: Learn more about web3 🥅 </code>
-<code>IRON MAN ❤ </code>
+<code>IRON MAN❤</code>
 
 ---
 </div>
