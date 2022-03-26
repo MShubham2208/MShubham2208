@@ -10,7 +10,7 @@
 
 <code>I'm a Computer Science Engineer😎</code>
 <code>I love programming❤</code>
-<code>I like learn new things🌱</code>
+<code>I like to learn new things🌱</code>
 <code>2022 Goals: Learn more about web3 🥅 </code>
 
 
@@ -18,13 +18,21 @@
 </div>
 </br>
 
+  
 ![](https://github-readme-stats.vercel.app/api?username=TonyStark0801&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-## :keyboard: Languages that I've most worked on
+
+## 🔥Competitive Coding
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shubham0801&theme=nord&border=3)
+## ⌨️: Languages that I've most worked on
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark0801&include_all_commits=true&layout=compact&theme=tokyonight)](https://github.com/charfweh)
+
+
+
+ 
+
+
 ### 🌐: Connect with me:
-
-
 [![website](./img/twitter-light.svg)](https://twitter.com/mishras85003094#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mishras85003094#gh-dark-mode-only)
 &nbsp;&nbsp;
