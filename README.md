@@ -21,12 +21,12 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=TonyStark0801&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-<>
+<!---
 ## 🔥Competitive Coding
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Shubham0801&theme=nord&border=3)
 ## ⌨️: Languages that I've most worked on
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark0801&include_all_commits=true&layout=compact&theme=tokyonight)](https://github.com/charfweh)
-<>
+--->
 
 
  
