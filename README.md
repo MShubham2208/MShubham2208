@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there <img src="./img/Hi.gif" width="30px">, I'm Shubham Mishra</h1>
+<h1>Hi there <img src="./img/Hi.gif" width="10px">, I'm Shubham Mishra</h1>
 
 ![alt text](./img/coffee.gif)
 
