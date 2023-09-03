@@ -1,3 +1,5 @@
+![alt text](./BANNER.png)
+
 # 💫 About Me:
 I'm a passionate and enthusiastic software developer mostly <br>android, always eager to learn and grow.<br> As a fresher developer, I'm proficient in Java and have a strong <br>foundation in Python and JavaScript. <br>I'm also well-versed in the MERN stack.<br><br>I am well aware about Flutter and currently working in that direction<br><br>When I'm not coding, you can find me reading a wide variety of books 📚 or watching my favorite animes 🍿 and  Playing  games
 
