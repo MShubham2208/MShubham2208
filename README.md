@@ -1,7 +1,29 @@
 ![alt text](./BANNER.png)
 
+
+
+
+
+
 # 💫 About Me:
-I'm a passionate and enthusiastic software developer mostly <br>android, always eager to learn and grow.<br> As a fresher developer, I'm proficient in Java and have a strong <br>foundation in Python and JavaScript. <br>I'm also well-versed in the MERN stack.<br><br>I am well aware about Flutter and currently working in that direction<br><br>When I'm not coding, you can find me reading a wide variety of books 📚 or watching my favorite animes 🍿 and  Playing  games
+
+<img align="right" width="200" height="200" src="https://i.imgur.com/KnnNve6.png">
+
+  Passionate software developer, primarily focused on Android, driven by an unquenchable thirst for knowledge and personal growth. As a junior developer, I wield expertise in Java and boast a solid foundation in Python and JavaScript.
+
+  I navigate the tech world with finesse, particularly in the realm of the MERN stack. My journey also includes an exciting exploration of Flutter, where I'm actively honing my skills to craft remarkable cross-platform experiences.
+
+  Beyond the keyboard and screen, you'll find me engrossed in a diverse array of books 📚, savoring my favorite animes 🍿, and conquering new gaming realms 🎮.
+ 
+
+```python
+if you = code():
+    while you not succeed():
+        you.learn()
+    else:
+        you.enjoy()
+```
+
 
 
 ## 🌐 Socials:
@@ -15,6 +37,8 @@ I'm a passionate and enthusiastic software developer mostly <br>android, always 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyStark0801&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=TonyStark0801&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
