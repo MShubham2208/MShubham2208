@@ -1,6 +1,4 @@
-![alt text](./BANNER.png)
-
-
+![alt text](https://i.imgur.com/fYorEpf.jpg)
 
 
 
