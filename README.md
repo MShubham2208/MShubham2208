@@ -8,7 +8,7 @@
 
   I navigate the tech world with finesse, particularly in the realm of the MERN stack. My journey also includes an exciting exploration of Flutter, where I'm actively honing my skills to craft remarkable cross-platform experiences.
 
-  Beyond the keyboard and screen, you'll find me engrossed in a diverse array of books 📚, savoring my favorite animes 🍿, and conquering new gaming realms 🎮.
+  Beyond the keyboard  and screen, you'll find me engrossed in a diverse array of books 📚, savoring my favorite animes 🍿, and conquering new gaming realms 🎮.
  
 
 ```python
