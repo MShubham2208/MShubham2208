@@ -3,13 +3,12 @@
 
 # 📖 My Story
 <img align="right" width="200" height="200" src="https://i.imgur.com/KnnNve6.png">
+Passionate software developer with a strong focus on backend development and scalable systems. I’ve been exploring the depths of Spring Boot for building robust microservices and enhancing my backend engineering skills. As a developer, I bring expertise in Java while maintaining a solid foundation in Python and JavaScript.
 
-  Passionate software developer, primarily focused on Android, driven by an unquenchable thirst for knowledge and personal growth. As a junior developer, I wield expertise in Java and boast a solid foundation in Python and JavaScript.
+My journey has also included crafting solutions using the MERN stack and diving into Flutter to create impactful cross-platform experiences.
 
-  I navigate the tech world with finesse, particularly in the realm of the MERN stack. My journey also includes an exciting exploration of Flutter, where I'm actively honing my skills to craft remarkable cross-platform experiences.
+When I’m not coding, you’ll find me immersed in books 📚, enjoying my favorite animes 🎥, or exploring virtual worlds in gaming 🎮.
 
-  Beyond the keyboard and screen, you'll find me engrossed in a diverse array of books 📚, savoring my favorite animes 🍿, and conquering new gaming realms 🎮.
- 
 
 ```python
 if you = code():
@@ -24,11 +23,12 @@ if you = code():
 
 
 # 🖥️ Tech Stack Showcase:
+[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,kotlin,dart,solidity,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,javascript&theme=dark)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=googlecloud,firebase&theme=dark)](https://skillicons.dev)
